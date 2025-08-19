@@ -45,8 +45,8 @@ Here are some of the technologies I work with:
 
 | Project Name      | Description                                                                                                                                                              | Tech Used                               | Link                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- | ------------------------------------------------ |
-| **Leaderboard** | A full-stack application to display real-time and historical leaderboards from a large dataset, featuring a secure API to fetch user-specific ranks.                       | `Node.js`, `Express`, `React`, `MySQL`  | **[GitHub Repo]https://github.com/Gauravbisht231/LeadersBoard** |
-| **Weather App** | A responsive web app providing real-time weather data. Features include geolocation, location search, and a clean UI, all built with vanilla web technologies.            | `HTML`, `CSS`, `JavaScript`, `Git`      | **[GitHub Repo]https://github.com/Gauravbisht231/Bawandar** |
+| **Leaderboard** | A full-stack application to display real-time and historical leaderboards from a large dataset, featuring a secure API to fetch user-specific ranks.                       | `Node.js`, `Express`, `React`, `MySQL`  | **[GitHub Repo](https://github.com/Gauravbisht231/LeadersBoard)** |
+| **Weather App** | A responsive web app providing real-time weather data. Features include geolocation, location search, and a clean UI, all built with vanilla web technologies.            | `HTML`, `CSS`, `JavaScript`, `Git`      | **[GitHub Repo](https://github.com/Gauravbisht231/Bawandar)** |
 
 ---
 
