@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Gaurav 👋
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile/">
+<a href="https://www.linkedin.com/in/gauravbisht231/">
   <img align="left" alt="Your Name's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.leetcode.com/u/codemonarch">
@@ -22,7 +22,7 @@ I'm a Software Development Engineer with a passion for building scalable backend
     - Integrate OpenTelemetry for real-time monitoring, **reducing issue detection time by 10%**.
     - Optimize backend workflows using AWS (SQS, SNS) to enhance fault tolerance and scalability.
 - 🌱 I'm passionate about backend development, cloud technologies, and data structures.
-- 📫 How to reach me: **[your-email@example.com]** (or add your preferred contact method)
+- 📫 How to reach me: **gauravbisht231@gmail.com** 
 
 ---
 
@@ -45,8 +45,8 @@ Here are some of the technologies I work with:
 
 | Project Name      | Description                                                                                                                                                              | Tech Used                               | Link                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- | ------------------------------------------------ |
-| **Leaderboard** | A full-stack application to display real-time and historical leaderboards from a large dataset, featuring a secure API to fetch user-specific ranks.                       | `Node.js`, `Express`, `React`, `MySQL`  | **[GitHub Repo](your-github-link-here)** |
-| **Weather App** | A responsive web app providing real-time weather data. Features include geolocation, location search, and a clean UI, all built with vanilla web technologies.            | `HTML`, `CSS`, `JavaScript`, `Git`      | **[GitHub Repo](your-github-link-here)** |
+| **Leaderboard** | A full-stack application to display real-time and historical leaderboards from a large dataset, featuring a secure API to fetch user-specific ranks.                       | `Node.js`, `Express`, `React`, `MySQL`  | **[GitHub Repo] https://github.com/Gauravbisht231/LeadersBoard** |
+| **Weather App** | A responsive web app providing real-time weather data. Features include geolocation, location search, and a clean UI, all built with vanilla web technologies.            | `HTML`, `CSS`, `JavaScript`, `Git`      | **[GitHub Repo] https://github.com/Gauravbisht231/Bawandar** |
 
 ---
 
@@ -63,11 +63,11 @@ I enjoy problem-solving and regularly participate in competitive programming cha
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gauravbisht231&show_icons=true&theme=radical" alt="Your GitHub Stats" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravbisht231&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
