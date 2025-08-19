@@ -10,7 +10,7 @@
 <br />
 <br />
 
-I'm a Software Development Engineer with a passion for building scalable backend systems and solving complex challenges. I thrive on enhancing system performance, reliability, and creating impactful features. I graduated with a Bachelor's in Information Technology from Netaji Subhas University of Technology.
+I'm a Software Development Engineer with a passion for building scalable backend systems and solving complex challenges. I thrive on enhancing system performance, reliability, and creating impactful features. I graduated with a Bachelor's in Information Technology from Netaji Subhas University of Technology (2020-2024).
 
 ---
 
@@ -45,8 +45,8 @@ Here are some of the technologies I work with:
 
 | Project Name      | Description                                                                                                                                                              | Tech Used                               | Link                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- | ------------------------------------------------ |
-| **Leaderboard** | A full-stack application to display real-time and historical leaderboards from a large dataset, featuring a secure API to fetch user-specific ranks.                       | `Node.js`, `Express`, `React`, `MySQL`  | **[GitHub Repo] https://github.com/Gauravbisht231/LeadersBoard** |
-| **Weather App** | A responsive web app providing real-time weather data. Features include geolocation, location search, and a clean UI, all built with vanilla web technologies.            | `HTML`, `CSS`, `JavaScript`, `Git`      | **[GitHub Repo] https://github.com/Gauravbisht231/Bawandar** |
+| **Leaderboard** | A full-stack application to display real-time and historical leaderboards from a large dataset, featuring a secure API to fetch user-specific ranks.                       | `Node.js`, `Express`, `React`, `MySQL`  | **[GitHub Repo]https://github.com/Gauravbisht231/LeadersBoard** |
+| **Weather App** | A responsive web app providing real-time weather data. Features include geolocation, location search, and a clean UI, all built with vanilla web technologies.            | `HTML`, `CSS`, `JavaScript`, `Git`      | **[GitHub Repo]https://github.com/Gauravbisht231/Bawandar** |
 
 ---
 
