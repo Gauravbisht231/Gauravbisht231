@@ -62,12 +62,12 @@ I enjoy problem-solving and regularly participate in competitive programming cha
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Gauravbisht231/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Gauravbisht231&show_icons=true&theme=radical" alt="Your GitHub Stats" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Gauravbisht231/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravbisht231&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
